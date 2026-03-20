@@ -1,2 +1,3 @@
-# auto-game-engine-acy7
-Automated issue comment bot repository
+# Auto Game Engine Acy7
+
+Automated issue comment bot repository.
